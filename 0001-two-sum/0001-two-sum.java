@@ -5,22 +5,21 @@ class Solution {
         
         for (int i =0;i<len;i++)
         {int sum=0;
-            for(int j =1;j<len;j++)
-            {   if(i==j)
-            { continue;}
+            for(int j=i+1;j<len;j++)
+            {
                 sum=arr[i]+arr[j];
                 if(target==sum)
                 {
                     ans[0]=i;
                     ans[1]=j;
-                     break;
+                break;
                 }
                
            
-        
+              
             }
 
      
         }
-    return ans;
-}}
+   return ans;
+    }}
