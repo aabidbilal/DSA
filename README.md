@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aabidbilal/DSA/tree/master/0001-two-sum) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/aabidbilal/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1580-shuffle-the-array](https://github.com/aabidbilal/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aabidbilal/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/aabidbilal/DSA/tree/master/1791-richest-customer-wealth) |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aabidbilal/DSA/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/aabidbilal/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
