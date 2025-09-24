@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aabidbilal/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aabidbilal/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aabidbilal/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/aabidbilal/DSA/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/aabidbilal/DSA/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aabidbilal/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/aabidbilal/DSA/tree/master/2058-concatenation-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aabidbilal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aabidbilal/DSA/tree/master/0645-set-mismatch) |
+| [1635-number-of-good-pairs](https://github.com/aabidbilal/DSA/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/aabidbilal/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/aabidbilal/DSA/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/aabidbilal/DSA/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aabidbilal/DSA/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/aabidbilal/DSA/tree/master/1635-number-of-good-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
