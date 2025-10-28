@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aabidbilal/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aabidbilal/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aabidbilal/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aabidbilal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0861-flipping-an-image](https://github.com/aabidbilal/DSA/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/aabidbilal/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/aabidbilal/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/aabidbilal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
