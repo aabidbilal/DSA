@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aabidbilal/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/aabidbilal/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/aabidbilal/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aabidbilal/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/aabidbilal/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aabidbilal/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aabidbilal/DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/aabidbilal/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aabidbilal/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aabidbilal/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -151,6 +153,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aabidbilal/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aabidbilal/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aabidbilal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aabidbilal/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aabidbilal/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
