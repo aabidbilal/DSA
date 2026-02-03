@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aabidbilal/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/aabidbilal/DSA/tree/master/2058-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aabidbilal/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3637-trionic-array-i](https://github.com/aabidbilal/DSA/tree/master/3637-trionic-array-i) |
 ## Simulation
 |  |
 | ------- |
