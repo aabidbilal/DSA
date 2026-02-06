@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aabidbilal/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/aabidbilal/DSA/tree/master/2058-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aabidbilal/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/aabidbilal/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/aabidbilal/DSA/tree/master/3637-trionic-array-i) |
 ## Simulation
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aabidbilal/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/aabidbilal/DSA/tree/master/0645-set-mismatch) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aabidbilal/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/aabidbilal/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aabidbilal/DSA/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/aabidbilal/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
