@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aabidbilal/DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/aabidbilal/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/aabidbilal/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aabidbilal/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aabidbilal/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aabidbilal/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aabidbilal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
