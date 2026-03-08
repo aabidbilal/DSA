@@ -1,77 +1,40 @@
-   class Solution {
-    public int calcNextIdx(int [] nums, int curr) {
-        int next = curr;
-        int seq = nums[curr];
-        if (seq > 0) {
-            next = (next + seq) % nums.length;
-        } else {
-            int mod = seq % nums.length;
-            int forward = nums.length + mod;
-            next = (curr + forward) % nums.length;
-        }
-        return next;
-    }
+class Solution {
     public boolean circularArrayLoop(int[] nums) {
-        for (int i = 0; i < nums.length; i = i + 1) {
-            if (nums[i] == 0) {
-                continue;
-            }
-            boolean isPos = nums[i] > 0;
+        for (int i = 0; i < nums.length; i++) {
 
-            int slow = i;
-            int fast = i;
-            do {
-                slow = calcNextIdx(nums, slow);
-                fast = calcNextIdx(nums, fast);
+            HashSet<Integer> set = new HashSet<>();
 
-                if (isPos) {
-                    if (nums[fast] < 0) {
-                        break;
-                    }
-                } else {
-                    if (nums[fast] > 0) {
-                        break;
-                    }
-                }
-
-                fast = calcNextIdx(nums, fast);
-
-                if (isPos) {
-                    if (nums[fast] < 0) {
-                        break;
-                    }
-                } else {
-                    if (nums[fast] > 0) {
-                        break;
-                    }
-                }
-
-                if (slow == fast) {
-                    if (slow != calcNextIdx(nums, slow)) {
-                        return true;
-                    }
-                    break;
-                }
-            } while (slow != fast);
-
+            boolean ispos = nums[i] > 0;
+            set.add(i);
             int curr = i;
+            //  2, -1, 1, 2, 2
 
-            if (isPos) {
-                while (nums[curr] > 0) {
-                    int next = calcNextIdx(nums, curr);
-                    nums[curr] = 0;
-                    curr = next;
+            while (true) {
+                int next = calnext(nums, curr);
+                if (ispos) {
+                    if (nums[next] < 0) {
+                        break;
+                    }
+                }else{
+                if (nums[next] >0) {
+                    break;}
                 }
-            } else {
-                while (nums[curr] < 0) {
-                    int next = calcNextIdx(nums, curr);
-                    nums[curr] = 0;
-                    curr = next;
+                if (curr == next)
+                    break;
+                if (set.contains(next)) {
+                    return true;
+
                 }
+                set.add(next);
+                curr = next;
             }
+            // while()
         }
-
-
         return false;
+    }
+
+    public int calnext(int[] arr, int curr) {
+        int n = arr.length;
+       return ((curr + arr[curr]) % n + n) % n;
     }
 }
