@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aabidbilal/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aabidbilal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/aabidbilal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/aabidbilal/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aabidbilal/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aabidbilal/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aabidbilal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aabidbilal/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aabidbilal/DSA/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/aabidbilal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/aabidbilal/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aabidbilal/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/aabidbilal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aabidbilal/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aabidbilal/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
