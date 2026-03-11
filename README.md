@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/aabidbilal/DSA/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/aabidbilal/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/aabidbilal/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/aabidbilal/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/aabidbilal/DSA/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aabidbilal/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/aabidbilal/DSA/tree/master/0792-binary-search) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aabidbilal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aabidbilal/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/aabidbilal/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aabidbilal/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aabidbilal/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
