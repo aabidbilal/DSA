@@ -1,37 +1,28 @@
 class Solution {
-    public boolean isOverlap( int[] last, int[] curr){
-        return curr[0] <= last[1] && curr[1] >= last[0];
-    }
     public int[][] merge(int[][] intervals) {
-        boolean isMerged = true;
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
         ArrayList<int[]> list = new ArrayList<>();
-        for (int[] interval : intervals) {
-            list.add(interval);
-        }
-        while (isMerged) {
-            isMerged = false;
-            for (int i = 0; i < list.size(); i = i + 1) {
-                int j = i + 1;
-                while (j < list.size()) {
-                    int[] last = list.get(i);
-                    int[] curr = list.get(j);
 
-                    if (isOverlap(last, curr)) {
-                        last[0] = Math.min(last[0], curr[0]);
-                        last[1] = Math.max(last[1], curr[1]);
+        list.add(intervals[0]);
 
-                        list.remove(j);
-                        isMerged = true;
-                    } else {
-                        j = j + 1;
-                    }
-                }
+        for ( int i = 1; i < intervals.length; i = i + 1){
+
+            int[] prev = list.get(list.size() - 1);
+            int[] curr = intervals[i];
+
+            if ( curr[0] <= prev[1]){
+                prev[0] = Math.min(prev[0], curr[0]);
+                prev[1] = Math.max(prev[1], curr[1]);
+            }
+            else{
+                list.add(intervals[i]);
             }
         }
         int[][] ans = new int[list.size()][2];
-        for (int i = 0; i < list.size(); i = i + 1){
+        for(int i = 0; i < list.size(); i = i + 1){
             ans[i] = list.get(i);
         }
-        return ans;
+
+        return ans;        
     }
 }
