@@ -18,6 +18,13 @@ class MyCalendarTwo {
                 return false;
             }
         }
+        if (map.get(startTime) == 0) {
+            map.remove(startTime);
+        }
+        if (map.get(endTime) == 0) {
+            map.remove(endTime);
+        }
+
         return true;
     }
 }
