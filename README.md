@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aabidbilal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aabidbilal/DSA/tree/master/0986-interval-list-intersections) |
+| [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/aabidbilal/DSA/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aabidbilal/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aabidbilal/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/aabidbilal/DSA/tree/master/0861-flipping-an-image) |
+| [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/aabidbilal/DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/aabidbilal/DSA/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aabidbilal/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aabidbilal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aabidbilal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/aabidbilal/DSA/tree/master/0731-my-calendar-ii) |
+| [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 | [1603-running-sum-of-1d-array](https://github.com/aabidbilal/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aabidbilal/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/aabidbilal/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/aabidbilal/DSA/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aabidbilal/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 ## Quickselect
 |  |
 | ------- |
