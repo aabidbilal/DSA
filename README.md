@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/aabidbilal/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aabidbilal/DSA/tree/master/0986-interval-list-intersections) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/aabidbilal/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aabidbilal/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aabidbilal/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aabidbilal/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/aabidbilal/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aabidbilal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aabidbilal/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/aabidbilal/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aabidbilal/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Rolling Hash
 |  |
