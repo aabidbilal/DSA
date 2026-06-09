@@ -13,19 +13,23 @@ class Solution {
         if (head == null || head.next == null){
              return head;
             }
-            
-        ListNode newHead = head.next;
-        ListNode prev = null;
-        ListNode curr = head;
-        while (curr != null && curr.next != null) {
-            ListNode nextNode = curr.next;
-            ListNode nextPair = curr.next.next;
-            nextNode.next = curr;
-            curr.next = nextPair;
-            if (prev != null) prev.next = nextNode;
-            prev = curr;
-            curr = nextPair;
-        }
-        return newHead;
+       ListNode dummy = new ListNode(0);
+       dummy.next = head;
+       
+       ListNode temp = dummy, prev = head, curr = head.next;
+
+       while ( prev != null && curr != null){
+
+        ListNode next = curr.next;
+        curr.next = prev;
+        prev.next = next;
+        temp.next = curr;
+
+        temp = prev;
+        prev = next;
+        if(next != null){
+        curr = next.next;
+        }}
+       return dummy.next;
     }
 }
