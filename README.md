@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/aabidbilal/DSA/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aabidbilal/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aabidbilal/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aabidbilal/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3169-count-days-without-meetings](https://github.com/aabidbilal/DSA/tree/master/3169-count-days-without-meetings) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/aabidbilal/DSA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aabidbilal/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Quickselect
 |  |
 | ------- |
