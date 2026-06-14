@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aabidbilal/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aabidbilal/DSA/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/aabidbilal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0645-set-mismatch](https://github.com/aabidbilal/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aabidbilal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aabidbilal/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aabidbilal/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/aabidbilal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aabidbilal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0457-circular-array-loop](https://github.com/aabidbilal/DSA/tree/master/0457-circular-array-loop) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aabidbilal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/aabidbilal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/aabidbilal/DSA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/aabidbilal/DSA/tree/master/1405-longest-happy-string) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aabidbilal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aabidbilal/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/aabidbilal/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aabidbilal/DSA/tree/master/0731-my-calendar-ii) |
@@ -377,5 +381,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aabidbilal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aabidbilal/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
