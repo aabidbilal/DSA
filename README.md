@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/aabidbilal/DSA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
+| [1405-longest-happy-string](https://github.com/aabidbilal/DSA/tree/master/1405-longest-happy-string) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aabidbilal/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Quickselect
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aabidbilal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aabidbilal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/aabidbilal/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1405-longest-happy-string](https://github.com/aabidbilal/DSA/tree/master/1405-longest-happy-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aabidbilal/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/aabidbilal/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1405-longest-happy-string](https://github.com/aabidbilal/DSA/tree/master/1405-longest-happy-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aabidbilal/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Linked List
