@@ -279,12 +279,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aabidbilal/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aabidbilal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aabidbilal/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/aabidbilal/DSA/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aabidbilal/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aabidbilal/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aabidbilal/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/aabidbilal/DSA/tree/master/0901-online-stock-span) |
 ## Enumeration
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/aabidbilal/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/aabidbilal/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/aabidbilal/DSA/tree/master/0732-my-calendar-iii) |
+| [0901-online-stock-span](https://github.com/aabidbilal/DSA/tree/master/0901-online-stock-span) |
 ## Segment Tree
 |  |
 | ------- |
@@ -387,4 +390,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aabidbilal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aabidbilal/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0901-online-stock-span](https://github.com/aabidbilal/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
