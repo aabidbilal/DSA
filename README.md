@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aabidbilal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/aabidbilal/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/aabidbilal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/aabidbilal/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aabidbilal/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aabidbilal/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aabidbilal/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/aabidbilal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/aabidbilal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/aabidbilal/DSA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/aabidbilal/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/aabidbilal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aabidbilal/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/aabidbilal/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aabidbilal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/aabidbilal/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/aabidbilal/DSA/tree/master/0904-fruit-into-baskets) |
@@ -399,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aabidbilal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aabidbilal/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0901-online-stock-span](https://github.com/aabidbilal/DSA/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aabidbilal/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aabidbilal/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
