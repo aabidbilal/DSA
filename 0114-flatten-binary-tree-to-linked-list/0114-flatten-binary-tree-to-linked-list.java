@@ -18,7 +18,7 @@ class Solution {
     
     if (root == null ) return;
 
-    if( root.left == null && root.right == null)return;
+    
     TreeNode left = root.left;
     TreeNode right = root.right;
     
