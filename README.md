@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/aabidbilal/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/aabidbilal/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -490,10 +491,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/aabidbilal/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/aabidbilal/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/aabidbilal/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/aabidbilal/DSA/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
