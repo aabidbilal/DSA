@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aabidbilal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aabidbilal/DSA/tree/master/0986-interval-list-intersections) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/aabidbilal/DSA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/aabidbilal/DSA/tree/master/1288-remove-covered-intervals) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aabidbilal/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aabidbilal/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/aabidbilal/DSA/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aabidbilal/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aabidbilal/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aabidbilal/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/aabidbilal/DSA/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
@@ -530,4 +535,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/aabidbilal/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
