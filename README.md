@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/aabidbilal/DSA/tree/master/1288-remove-covered-intervals) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aabidbilal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aabidbilal/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aabidbilal/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aabidbilal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/aabidbilal/DSA/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aabidbilal/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aabidbilal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aabidbilal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
@@ -544,4 +548,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/aabidbilal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
