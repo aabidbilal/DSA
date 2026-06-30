@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/aabidbilal/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aabidbilal/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/aabidbilal/DSA/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aabidbilal/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aabidbilal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/aabidbilal/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aabidbilal/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aabidbilal/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aabidbilal/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
