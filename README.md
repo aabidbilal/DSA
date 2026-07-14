@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0841-keys-and-rooms](https://github.com/aabidbilal/DSA/tree/master/0841-keys-and-rooms) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aabidbilal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aabidbilal/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/aabidbilal/DSA/tree/master/0841-keys-and-rooms) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -584,4 +586,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/aabidbilal/DSA/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
