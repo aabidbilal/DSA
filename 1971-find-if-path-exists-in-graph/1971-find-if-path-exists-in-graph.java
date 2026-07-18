@@ -15,25 +15,37 @@ class Solution {
             list.get(a).add(b);
             list.get(b).add(a);
         }
-        BFS(source, visited, list);
+        // BFS(source, visited, list);
+        DFS(source, visited, list);
 
         return visited[destination];
     }
 
-    public void BFS(int source, boolean[] visited, List<List<Integer>> list) {
+    public void DFS(int source, boolean[] visited, List<List<Integer>> list) {
 
         visited[source] = true;
-        Queue<Integer> q = new LinkedList<>();
-        q.add(source);
 
-        while (q.size() > 0) {
-            int front = q.remove();
-            for (int val : list.get(front)) {
-                if (!visited[val]) {
-                    q.add(val);
-                    visited[val] = true;
-                }
+        for (int val : list.get(source)) {
+            if (!visited[val]) {
+              DFS(val, visited, list);
             }
         }
     }
+
+    // public void BFS(int source, boolean[] visited, List<List<Integer>> list) {
+
+    //     visited[source] = true;
+    //     Queue<Integer> q = new LinkedList<>();
+    //     q.add(source);
+
+    //     while (q.size() > 0) {
+    //         int front = q.remove();
+    //         for (int val : list.get(front)) {
+    //             if (!visited[val]) {
+    //                 q.add(val);
+    //                 visited[val] = true;
+    //             }
+    //         }
+    //     }
+    // }
 }
