@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aabidbilal/DSA/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aabidbilal/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/aabidbilal/DSA/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aabidbilal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Data Stream
 |  |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0785-is-graph-bipartite](https://github.com/aabidbilal/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/aabidbilal/DSA/tree/master/0841-keys-and-rooms) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aabidbilal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aabidbilal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aabidbilal/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/aabidbilal/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/aabidbilal/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aabidbilal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/aabidbilal/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/aabidbilal/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aabidbilal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
