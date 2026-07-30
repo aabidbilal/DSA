@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aabidbilal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aabidbilal/DSA/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/aabidbilal/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/aabidbilal/DSA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aabidbilal/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aabidbilal/DSA/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/aabidbilal/DSA/tree/master/0861-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/aabidbilal/DSA/tree/master/0994-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/aabidbilal/DSA/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/aabidbilal/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/aabidbilal/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/aabidbilal/DSA/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/aabidbilal/DSA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aabidbilal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
