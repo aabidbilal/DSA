@@ -626,4 +626,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aabidbilal/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aabidbilal/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aabidbilal/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
