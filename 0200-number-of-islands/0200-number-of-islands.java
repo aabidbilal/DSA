@@ -1,9 +1,9 @@
 class Solution {
-    class pair {
+    class Pair {
         int row;
         int col;
 
-        pair(int row, int col) {
+        Pair(int row, int col) {
             this.row = row;
             this.col = col;
         }
@@ -33,40 +33,28 @@ class Solution {
     private void BFS(int i, int j, char[][] grid, boolean[][] vis) {
         int m = grid.length;
         int n = grid[0].length;
-        Queue<pair> q = new LinkedList<>();
-        q.add(new pair(i, j));
+
+        Queue<Pair> q = new LinkedList<>();
+        q.add(new Pair(i, j));
         vis[i][j] = true;
 
+        int[][] directions = {
+            {-1,0},{1,0},{0,-1},{0,1}
+        };
+
         while (q.size() > 0) {
-            pair front = q.remove();
+            Pair front = q.remove();
             int row = front.row, col = front.col;
 
-            // bottom
-            if (row + 1 < m) {
-                if (grid[row + 1][col] != '0' && !vis[row + 1][col]) {
-                    q.add(new pair(row + 1, col));
-                    vis[row + 1][col] = true;
-                }
-            }
-            // right
-            if (col + 1 < n) {
-                if (grid[row][col + 1] != '0' && !vis[row][col + 1]) {
-                    q.add(new pair(row, col + 1));
-                    vis[row][col + 1] = true;
-                }
-            }
-            // left
-            if (col - 1 >= 0) {
-                if (grid[row][col - 1] != '0' && !vis[row][col - 1]) {
-                    q.add(new pair(row, col - 1));
-                    vis[row][col - 1] = true;
-                }
-            }
-             // top
-            if (row - 1 >= 0) {
-                if (grid[row - 1][col] != '0' && !vis[row - 1][col]) {
-                    q.add(new pair(row - 1, col));
-                    vis[row - 1][col] = true;
+            for(int [] dir : directions){
+                int nr = row + dir[0];
+                int nc = col + dir[1];
+                
+                if(nr >= 0 && nr < m && nc >= 0 && nc < n && !vis[nr][nc]){
+                    if(grid[nr][nc] == '1'){
+                        q.add(new Pair(nr, nc));
+                        vis[nr][nc] = true;
+                    }
                 }
             }
         }
