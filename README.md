@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aabidbilal/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aabidbilal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aabidbilal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/aabidbilal/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/aabidbilal/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aabidbilal/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aabidbilal/DSA/tree/master/0162-find-peak-element) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aabidbilal/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/aabidbilal/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aabidbilal/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aabidbilal/DSA/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/aabidbilal/DSA/tree/master/0861-flipping-an-image) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/aabidbilal/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aabidbilal/DSA/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aabidbilal/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aabidbilal/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aabidbilal/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aabidbilal/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0130-surrounded-regions](https://github.com/aabidbilal/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aabidbilal/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aabidbilal/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aabidbilal/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aabidbilal/DSA/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/aabidbilal/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aabidbilal/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
