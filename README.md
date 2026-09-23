@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/aabidbilal/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aabidbilal/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/aabidbilal/DSA/tree/master/1635-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aabidbilal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1791-richest-customer-wealth](https://github.com/aabidbilal/DSA/tree/master/1791-richest-customer-wealth) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aabidbilal/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/aabidbilal/DSA/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/aabidbilal/DSA/tree/master/1094-car-pooling) |
 | [1603-running-sum-of-1d-array](https://github.com/aabidbilal/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aabidbilal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aabidbilal/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/aabidbilal/DSA/tree/master/0904-fruit-into-baskets) |
 | [1635-number-of-good-pairs](https://github.com/aabidbilal/DSA/tree/master/1635-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aabidbilal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aabidbilal/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aabidbilal/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aabidbilal/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/aabidbilal/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aabidbilal/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aabidbilal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aabidbilal/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aabidbilal/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/aabidbilal/DSA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aabidbilal/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aabidbilal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aabidbilal/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aabidbilal/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
