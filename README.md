@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/aabidbilal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/aabidbilal/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1405-longest-happy-string](https://github.com/aabidbilal/DSA/tree/master/1405-longest-happy-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aabidbilal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aabidbilal/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aabidbilal/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/aabidbilal/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/aabidbilal/DSA/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aabidbilal/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aabidbilal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aabidbilal/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -689,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aabidbilal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
