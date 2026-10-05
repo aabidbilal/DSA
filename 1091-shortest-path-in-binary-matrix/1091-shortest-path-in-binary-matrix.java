@@ -42,7 +42,7 @@ class Solution {
             q.remove();
 
             if(r == m - 1 && c == n - 1){
-                steps = Math.min(steps, s);
+                steps = s;
             }
 
             int[] dr = { -1, -1, -1, 0, 0, 1, 1, 1 };
