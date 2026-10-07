@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aabidbilal/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/aabidbilal/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/aabidbilal/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/aabidbilal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aabidbilal/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aabidbilal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aabidbilal/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aabidbilal/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aabidbilal/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aabidbilal/DSA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/aabidbilal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/aabidbilal/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/aabidbilal/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aabidbilal/DSA/tree/master/0733-flood-fill) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aabidbilal/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/aabidbilal/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/aabidbilal/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/aabidbilal/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
