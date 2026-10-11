@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/aabidbilal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aabidbilal/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aabidbilal/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aabidbilal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aabidbilal/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aabidbilal/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3169-count-days-without-meetings](https://github.com/aabidbilal/DSA/tree/master/3169-count-days-without-meetings) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aabidbilal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aabidbilal/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Recursion
 |  |
