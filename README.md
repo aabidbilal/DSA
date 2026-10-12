@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aabidbilal/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aabidbilal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aabidbilal/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aabidbilal/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aabidbilal/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3169-count-days-without-meetings](https://github.com/aabidbilal/DSA/tree/master/3169-count-days-without-meetings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aabidbilal/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aabidbilal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aabidbilal/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aabidbilal/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aabidbilal/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aabidbilal/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aabidbilal/DSA/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/aabidbilal/DSA/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aabidbilal/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aabidbilal/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aabidbilal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aabidbilal/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aabidbilal/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
