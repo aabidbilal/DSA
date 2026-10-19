@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aabidbilal/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/aabidbilal/DSA/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/aabidbilal/DSA/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aabidbilal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aabidbilal/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aabidbilal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aabidbilal/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/aabidbilal/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aabidbilal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aabidbilal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aabidbilal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aabidbilal/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/aabidbilal/DSA/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/aabidbilal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aabidbilal/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aabidbilal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aabidbilal/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aabidbilal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aabidbilal/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
