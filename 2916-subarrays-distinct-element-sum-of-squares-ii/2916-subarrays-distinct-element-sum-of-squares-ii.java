@@ -1,73 +1,92 @@
 
-class Solution {
-    static final long MOD = 1_000_000_007L;
+import java.util.Arrays;
 
-    long[] sum, square, lazy;
+class Solution {
+
+    static final long MOD = 1_000_000_007L; 
+
+    long[] sqSumSegTree; 
+    long[] segTree;      
+    long[] lazy;         
     int n;
 
     public int sumCounts(int[] nums) {
         n = nums.length;
 
-        sum = new long[4 * n];
-        square = new long[4 * n];
-        lazy = new long[4 * n];
+        sqSumSegTree = new long[4 * n]; 
+        segTree = new long[4 * n];      
+        lazy = new long[4 * n];         
 
-        int[] last = new int[100001];
-        Arrays.fill(last, -1);
+        int[] lastSeen = new int[100001];
+        Arrays.fill(lastSeen, -1);
 
-        long ans = 0;
+        long result = 0;
 
         for (int i = 0; i < n; i++) {
-            int prev = last[nums[i]];
+            int start = lastSeen[nums[i]] + 1;
+            int end = i;
 
-            update(1, 0, n - 1, prev + 1, i);
+            updateRange(start, end, 0, 0, n - 1, 1);
 
-            ans = (ans + square[1]) % MOD;
-            last[nums[i]] = i;
+            result = (result + sqSumSegTree[0]) % MOD;
+
+            lastSeen[nums[i]] = i;
         }
 
-        return (int) ans;
+        return (int) result;
     }
 
-    void update(int node, int l, int r, int ql, int qr) {
-        if (ql > r || qr < l) return;
+    public void updateRange(
+            int start, int end, int i, int l, int r, long val) {
 
-        if (ql <= l && r <= qr) {
-            apply(node, l, r, 1);
+        if (lazy[i] != 0) {
+            lazyAddition(i, l, r, lazy[i]);
+
+            if (l != r) {
+                
+                lazy[2 * i + 1] = (lazy[2 * i + 1] + lazy[i]) % MOD;
+                lazy[2 * i + 2] = (lazy[2 * i + 2] + lazy[i]) % MOD;
+            }
+            lazy[i] = 0;
+        }
+
+        if (r < start || end < l || l > r) {
+            return;
+        }
+        if (start <= l && r <= end) {
+            lazyAddition(i, l, r, val);
+
+            if (l != r) {
+                
+                lazy[2 * i + 1] = (lazy[2 * i + 1] + val) % MOD;
+                lazy[2 * i + 2] = (lazy[2 * i + 2] + val) % MOD;
+            }
+
             return;
         }
 
-        push(node, l, r);
-
         int mid = l + (r - l) / 2;
 
-        update(node * 2, l, mid, ql, qr);
-        update(node * 2 + 1, mid + 1, r, ql, qr);
+        updateRange(start, end, 2 * i + 1, l, mid, val);
+        updateRange(start, end, 2 * i + 2, mid + 1, r, val);
 
-        sum[node] = (sum[node * 2] + sum[node * 2 + 1]) % MOD;
-        square[node] = (square[node * 2] + square[node * 2 + 1]) % MOD;
+        segTree[i] =
+                (segTree[2 * i + 1] + segTree[2 * i + 2]) % MOD;
+
+        sqSumSegTree[i] =
+                (sqSumSegTree[2 * i + 1]
+                + sqSumSegTree[2 * i + 2]) % MOD;
     }
 
-    void apply(int node, int l, int r, long inc) {
-        long len = r - l + 1L;
+    public void lazyAddition(int i, int l, int r, long val) {
+        long len = r - l + 1;
 
-        square[node] = (
-            square[node] + 2 * inc % MOD * sum[node] % MOD
-            + inc * inc % MOD * len % MOD
+        sqSumSegTree[i] = (
+                sqSumSegTree[i]
+                + 2L * val % MOD * segTree[i] % MOD
+                + len % MOD * val % MOD * val % MOD
         ) % MOD;
 
-        sum[node] = (sum[node] + inc * len) % MOD;
-        lazy[node] = (lazy[node] + inc) % MOD;
-    }
-
-    void push(int node, int l, int r) {
-        if (lazy[node] == 0 || l == r) return;
-
-        int mid = l + (r - l) / 2;
-
-        apply(node * 2, l, mid, lazy[node]);
-        apply(node * 2 + 1, mid + 1, r, lazy[node]);
-
-        lazy[node] = 0;
+        segTree[i] = (segTree[i] + len % MOD * val) % MOD;
     }
 }
